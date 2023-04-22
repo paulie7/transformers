@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "name": "PowerShell",
+            "path": "../../home/codespace/.github/PowerShell"
+        },
+        {
+            "name": "Auto-GPT",
+            "path": "../../home/codespace/.github/Auto-GPT"
+        }
+    ]
+}
